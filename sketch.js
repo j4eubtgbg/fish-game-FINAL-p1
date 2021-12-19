@@ -207,7 +207,7 @@ function lose(){
       imageUrl:
         "https://cdn.shopify.com/s/files/1/1061/1924/products/Thumbs_Down_Sign_Emoji_Icon_ios10_grande.png",
       imageSize: "100x100",
-      confirmButtonText: "Thanks For Playing"
+      confirmButtonText: "Thanks For Playing, Press to try again."
     });
     gs = 2;
     score = 100;
